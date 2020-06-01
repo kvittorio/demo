@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6ac2b5d-e2a8-4342-9149-c109f45a1796" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ContactsManager" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXz2kvKYjdy5U9YPrOgbS8gfd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ContactsManager" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ContactsManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6ac2b5d-e2a8-4342-9149-c109f45a1796" name="Default Changelist" comment="" />
+      <created>1588793020153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588793020153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="21" width="1099" height="803" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588793457943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="475" y="21" width="1099" height="803" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1588793457943" />
+    <state x="626" y="114" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588793433329">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="626" y="114" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1588793433329" />
+    <state x="562" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588793702819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="562" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1588793702819" />
+    <state x="708" y="118" key="FileChooserDialogImpl" timestamp="1588842727153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="708" y="118" key="FileChooserDialogImpl/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1588842727153" />
+    <state width="441" height="402" key="GridCell.Tab.0.bottom" timestamp="1590586203559">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="441" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590586203559" />
+    <state width="441" height="402" key="GridCell.Tab.0.center" timestamp="1590586203556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="441" height="402" key="GridCell.Tab.0.center/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590586203556" />
+    <state width="441" height="402" key="GridCell.Tab.0.left" timestamp="1590586203555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="441" height="402" key="GridCell.Tab.0.left/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590586203555" />
+    <state width="441" height="402" key="GridCell.Tab.0.right" timestamp="1590586203558">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="441" height="402" key="GridCell.Tab.0.right/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590586203557" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1590343777927">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590343777927" />
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1590343204302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1080/-1024.480.1024.600@0.0.1920.1080" timestamp="1590343204302" />
+  </component>
+</project>
